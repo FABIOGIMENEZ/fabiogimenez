@@ -4,7 +4,7 @@ Eae beleza man? Meu nome é Fabio e curto muito todos os assuntos relacionados a
 <h1 align="center">Olá, sou o Fabio 👋</h1>
 
 <p align="center">
-  <img src="./profile.jpg" alt="Fabio Gimenez" width="150" style="border-radius: 50%;" />
+  <img src="./img 12 kb.jpg" alt="Fabio Gimenez" width="150" style="border-radius: 80%;" />
 </p>
 
 <p align="center">
